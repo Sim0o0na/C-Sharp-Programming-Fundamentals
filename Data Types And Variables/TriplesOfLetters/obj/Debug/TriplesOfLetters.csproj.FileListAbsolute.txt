@@ -1,0 +1,5 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

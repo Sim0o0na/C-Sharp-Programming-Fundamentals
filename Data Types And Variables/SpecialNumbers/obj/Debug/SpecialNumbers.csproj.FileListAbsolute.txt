@@ -1,0 +1,6 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache

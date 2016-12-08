@@ -1,0 +1,6 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\bin\Debug\Elevator.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\bin\Debug\Elevator.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\bin\Debug\Elevator.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\obj\Debug\Elevator.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Elevator\obj\Debug\Elevator.pdb

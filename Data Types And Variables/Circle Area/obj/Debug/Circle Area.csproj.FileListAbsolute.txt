@@ -1,0 +1,5 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Circle Area\bin\Debug\Circle Area.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Circle Area\bin\Debug\Circle Area.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Circle Area\bin\Debug\Circle Area.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Circle Area\obj\Debug\Circle Area.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Circle Area\obj\Debug\Circle Area.pdb

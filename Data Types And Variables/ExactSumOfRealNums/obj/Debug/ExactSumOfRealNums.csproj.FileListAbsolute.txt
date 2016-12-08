@@ -1,0 +1,5 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ExactSumOfRealNums\bin\Debug\ExactSumOfRealNums.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ExactSumOfRealNums\obj\Debug\ExactSumOfRealNums.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ExactSumOfRealNums\obj\Debug\ExactSumOfRealNums.pdb

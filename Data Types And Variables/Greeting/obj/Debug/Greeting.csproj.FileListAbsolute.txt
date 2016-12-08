@@ -1,0 +1,6 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\bin\Debug\Greeting.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\bin\Debug\Greeting.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\bin\Debug\Greeting.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\obj\Debug\Greeting.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\Greeting\obj\Debug\Greeting.pdb

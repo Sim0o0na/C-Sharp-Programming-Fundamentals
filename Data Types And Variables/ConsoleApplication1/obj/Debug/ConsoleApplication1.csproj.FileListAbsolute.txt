@@ -1,0 +1,6 @@
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Softuni\C# Programming Fundamentals\Data Types And Variables\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
